@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "MyPage"
-    url: /categories/categories3/
-  - title: "Paper"
     url: /categories/categories1/
-  - title: "Simulator"
+  - title: "Paper"
     url: /categories/categories2/
+  - title: "Simulator"
+    url: /categories/categories3/
   # - title: "Categories4"
   #   url: /categories/categories4/
