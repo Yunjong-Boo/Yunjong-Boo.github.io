@@ -16,9 +16,7 @@ date: 2023-11-22
 last_modified_at: 2023-11-22
 ---
 
-## 🦥 본문
-
-# Welcome to My First Post!
+## Welcome to My First Post!
 
 Hello everyone!
 
