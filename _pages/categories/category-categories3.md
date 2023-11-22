@@ -8,4 +8,4 @@ sidebar:
   nav: "categories"
 ---
  
-# A category to introduce the simulator I have used
+## A category to introduce the simulator I have used

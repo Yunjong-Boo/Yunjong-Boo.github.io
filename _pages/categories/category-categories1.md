@@ -8,4 +8,4 @@ sidebar:
   nav: "categories"
 ---
 
-# Mypage
+## Mypage

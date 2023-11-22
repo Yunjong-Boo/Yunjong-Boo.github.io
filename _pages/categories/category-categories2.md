@@ -8,4 +8,4 @@ sidebar:
   nav: "categories"
 ---
 
-# A category that introduces the paper you read
+## A category that introduces the paper you read
